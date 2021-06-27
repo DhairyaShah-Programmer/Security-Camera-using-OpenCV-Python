@@ -1,4 +1,4 @@
-# Credit: https://github.com/DhairyaShah-Programmer
+
 import cv2
 import winsound
 cam = cv2.VideoCapture(0)
